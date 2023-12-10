@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{14D13A7D-D46E-4AA2-9515-1651949B22C4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>_3Cafe</RootNamespace>
+    <AssemblyName>3Cafe</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\Navicat\DLL\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySqlBackup">
+      <HintPath>..\..\..\Navicat\DLL\MySqlBackup.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FORMS\EditMenus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\EditMenus.Designer.cs">
+      <DependentUpon>EditMenus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\EditMenuSuccessfully.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\EditMenuSuccessfully.Designer.cs">
+      <DependentUpon>EditMenuSuccessfully.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\MenuSuccessfully.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\MenuSuccessfully.Designer.cs">
+      <DependentUpon>MenuSuccessfully.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SalesTracking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SalesTracking.Designer.cs">
+      <DependentUpon>SalesTracking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\AddingMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\AddingMenu.Designer.cs">
+      <DependentUpon>AddingMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\CashPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\CashPayment.Designer.cs">
+      <DependentUpon>CashPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\GcashPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\GcashPayment.Designer.cs">
+      <DependentUpon>GcashPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\HomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\HomeForm.Designer.cs">
+      <DependentUpon>HomeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\LogOutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\LogOutForm.Designer.cs">
+      <DependentUpon>LogOutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\MenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\MenuForm.Designer.cs">
+      <DependentUpon>MenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\PaymentSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\PaymentSelection.Designer.cs">
+      <DependentUpon>PaymentSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\PayNow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\PayNow.Designer.cs">
+      <DependentUpon>PayNow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\SuccessfulPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\SuccessfulPayment.Designer.cs">
+      <DependentUpon>SuccessfulPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuFunctions\AllMenus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuFunctions\AllMenus.Designer.cs">
+      <DependentUpon>AllMenus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuFunctions\Category1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuFunctions\Category1.Designer.cs">
+      <DependentUpon>Category1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuFunctions\Category2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuFunctions\Category2.Designer.cs">
+      <DependentUpon>Category2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuFunctions\Category3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuFunctions\Category3.Designer.cs">
+      <DependentUpon>Category3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RJButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RJTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RJTextBox.Designer.cs">
+      <DependentUpon>RJTextBox.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FORMS\EditMenus.resx">
+      <DependentUpon>EditMenus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\EditMenuSuccessfully.resx">
+      <DependentUpon>EditMenuSuccessfully.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\MenuSuccessfully.resx">
+      <DependentUpon>MenuSuccessfully.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SalesTracking.resx">
+      <DependentUpon>SalesTracking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\AddingMenu.resx">
+      <DependentUpon>AddingMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\CashPayment.resx">
+      <DependentUpon>CashPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\GcashPayment.resx">
+      <DependentUpon>GcashPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\HomeForm.resx">
+      <DependentUpon>HomeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\LogOutForm.resx">
+      <DependentUpon>LogOutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\MenuForm.resx">
+      <DependentUpon>MenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\PaymentSelection.resx">
+      <DependentUpon>PaymentSelection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\PayNow.resx">
+      <DependentUpon>PayNow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\SuccessfulPayment.resx">
+      <DependentUpon>SuccessfulPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuFunctions\AllMenus.resx">
+      <DependentUpon>AllMenus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuFunctions\Category1.resx">
+      <DependentUpon>Category1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuFunctions\Category2.resx">
+      <DependentUpon>Category2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuFunctions\Category3.resx">
+      <DependentUpon>Category3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RJTextBox.resx">
+      <DependentUpon>RJTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="FORMS\App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paint1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Person.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Increase.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Increase1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Left.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
