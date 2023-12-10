@@ -1,0 +1,66 @@
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\bin\Debug\3Cafe.exe.config
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\bin\Debug\3Cafe.exe
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\bin\Debug\3Cafe.pdb
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\3Cafe.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.Properties.Resources.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\3Cafe.csproj.GenerateResource.cache
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\3Cafe.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\3Cafe.exe
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\3Cafe.pdb
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.Form2.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.Form3.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.Form4.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.FORMS.MenuForm.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.FORMS.HomeForm.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.FORMS.LogOutForm.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.MenuFunctions.AllMenus.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.MenuFunctions.Category1.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.MenuFunctions.Category2.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.MenuFunctions.Category3.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.FORMS.PayNow.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.FORMS.GcashPayment.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.FORMS.PaymentSelection.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.FORMS.CashPayment.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.FORMS.SuccessfulPayment.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.FORMS.AddingMenu.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\bin\Debug\MySql.Data.dll
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\bin\Debug\MySqlBackup.dll
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.login.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\3Cafe.csproj.CopyComplete
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.FORMS.MenuSuccessfully.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.FORMS.SalesTracking.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.FORMS.EditMenus.resources
+C:\Users\WINDOWS 10\Documents\Carlos David Tabacon\OOP Project\3Cafe\3Cafe\obj\Debug\_3Cafe.FORMS.EditMenuSuccessfully.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\bin\Debug\3Cafe.exe.config
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\bin\Debug\3Cafe.exe
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\bin\Debug\3Cafe.pdb
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\3Cafe.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.FORMS.EditMenus.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.FORMS.EditMenuSuccessfully.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.FORMS.MenuSuccessfully.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.FORMS.SalesTracking.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.login.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.Form2.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.Form4.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.Form3.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.FORMS.AddingMenu.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.FORMS.CashPayment.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.FORMS.GcashPayment.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.FORMS.HomeForm.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.FORMS.LogOutForm.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.FORMS.MenuForm.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.FORMS.PaymentSelection.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.FORMS.PayNow.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.FORMS.SuccessfulPayment.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.MenuFunctions.AllMenus.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.MenuFunctions.Category1.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.MenuFunctions.Category2.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.MenuFunctions.Category3.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\_3Cafe.Properties.Resources.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\3Cafe.csproj.GenerateResource.cache
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\3Cafe.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\3Cafe.csproj.CopyComplete
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\3Cafe.exe
+C:\Users\WINDOWS 10\Documents\GROUP3OOP\3Cafe\obj\Debug\3Cafe.pdb
